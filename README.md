@@ -1,1 +1,3 @@
 # bstest
+
+test
